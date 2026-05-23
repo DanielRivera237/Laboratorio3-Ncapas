@@ -1,9 +1,9 @@
 package com.example.labo3.mappers;
 
-import com.example.sheikahregister.dto.request.CreateSpecimenRequest;
-import com.example.sheikahregister.dto.request.UpdateSpecimenRequest;
-import com.example.sheikahregister.dto.response.SpecimenResponse;
-import com.example.sheikahregister.entities.Specimen;
+import com.example.labo3.dto.request.CreateSpecimenRequest;
+import com.example.labo3.dto.request.UpdateSpecimenRequest;
+import com.example.labo3.dto.response.SpecimenResponse;
+import com.example.labo3.entities.Specimen;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Component;
 
